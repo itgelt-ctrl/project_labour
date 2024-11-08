@@ -1,0 +1,1 @@
+Find the required documents in the folders data, scripts and outputs. I have used the labour population data extracted from the government owned database from Mongolia. These scripts are made to meet the requirements of the course therefore heavily simplified.
